@@ -12,7 +12,7 @@ if(fixed<16.0){
 else if(fixed >= 16 && fixed <= 18.4){
     console.log("Underweight");
 }
-else if(fixed <= 24.9 && fixed <= 18.5){
+else if(fixed >= 24.9 && fixed <= 18.5){
     console.log("Normal Weight");
 }
 else if(fixed >= 25.0 && fixed <= 29.9){
