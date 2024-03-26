@@ -22,18 +22,8 @@ function oddeven(arrr){
             y++;
         }
     }
-    // console.log("Even numbers: "+evenn);
-    // console.log("Odd numbers: "+oddd);
-}
-
-console.log("Even numbers: ");
-for(var ev = 0; ev = evenn.length; ev++){
-    console.log(evenn[ev]);
-}
-
-console.log("Odd numbers: ");
-for(var ev = 0; ev = oddd.length; ev++){
-    console.log(oddd[ev]);
+    console.log("Even numbers: "+evenn);
+    console.log("Odd numbers: "+oddd);
 }
 
 
